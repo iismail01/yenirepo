@@ -11,5 +11,6 @@ public class Class01 {
         //Localden sevgilerle
         //v5
         //v6
+        //v7
     }
 }
