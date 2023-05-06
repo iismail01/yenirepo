@@ -10,5 +10,6 @@ public class Class01 {
         //Github değişiklikleri
         //Localden sevgilerle
         //v5
+        //v6
     }
 }
